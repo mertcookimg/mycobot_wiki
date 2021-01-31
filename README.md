@@ -6,8 +6,8 @@ unofficial myCobot wiki
     * https://github.com/elephantrobotics/myCobotROS
     * https://github.com/elephantrobotics/pymycobot
 
-## Set Up (Japanese)
-### Qiita
+## Set Up 
+### Qiita(Japanese)
 https://qiita.com/MeRT/items/435385753692d0cf3250
 
 ### Install
