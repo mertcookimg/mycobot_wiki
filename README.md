@@ -8,7 +8,11 @@ unofficial myCobot wiki
 
 ## Set Up 
 ### Qiita(Japanese)
+①slider control
 https://qiita.com/MeRT/items/435385753692d0cf3250
+
+②moveit
+https://qiita.com/MeRT/items/77366486b120fa4a18c6
 
 ### Install
 
